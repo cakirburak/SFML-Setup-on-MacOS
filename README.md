@@ -18,7 +18,7 @@ $ sudo cp -r lib/* /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.p
 ```
 3. Copy the sfml includes to the folder where standard includes are;
 ```bash
-$ sudo cp -r include/* /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include
+$ sudo cp -r include/* /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1
 ```
 After completing these steps you are ready to go!
 
